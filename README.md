@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/github/forks/yaaqoub-charkouk/Bachelor-PFE-2026?style=for-the-badge">
 
 </div>
----
 
 ## 📖 Project Overview
 
