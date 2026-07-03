@@ -6,25 +6,24 @@
 
 **A full-stack platform for digitalizing car rental agency operations**
 
-</div>
-<div>
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot)
-![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css)
-![MariaDB](https://img.shields.io/badge/MariaDB-11-003545?style=for-the-badge&logo=mariadb)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker)
-![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+<br>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yaaqoub-charkouk/Bachelor-PFE-2026?style=for-the-badge)
+<img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-4-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-11-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yaaqoub-charkouk/Bachelor-PFE-2026?style=for-the-badge)
+<br><br>
 
-![GitHub stars](https://img.shields.io/github/stars/yaaqoub-charkouk/Bachelor-PFE-2026?style=for-the-badge)
+<img src="https://img.shields.io/github/last-commit/yaaqoub-charkouk/Bachelor-PFE-2026?style=for-the-badge">
+<img src="https://img.shields.io/github/repo-size/yaaqoub-charkouk/Bachelor-PFE-2026?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/yaaqoub-charkouk/Bachelor-PFE-2026?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/yaaqoub-charkouk/Bachelor-PFE-2026?style=for-the-badge">
 
-![GitHub forks](https://img.shields.io/github/forks/yaaqoub-charkouk/Bachelor-PFE-2026?style=for-the-badge)
 </div>
 ---
 
