@@ -1,0 +1,24 @@
+[submodule "car-rental-management-system-backend"]
+	path = car-rental-management-system-backend
+	url = git@github.com:yaaqoub-charkouk/car-rental-management-system-backend.git
+[submodule "PFE_LICENCE_2026"]
+	path = PFE_LICENCE_2026
+	url = git@github.com:abdellahaghzal/PFE_LICENCE_2026.git
+[submodule "pfe_front"]
+	path = pfe_front
+	url = git@github.com:abdellahaghzal/pfe_front.git
+[submodule "bachelor-final-studies-project-report"]
+	path = bachelor-final-studies-project-report
+	url = git@github.com:yaaqoub-charkouk/bachelor-final-studies-project-report.git
+[submodule "report"]
+	path = report
+	url = git@github.com:yaaqoub-charkouk/bachelor-final-studies-project-report.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:abdellahaghzal/pfe_front.git
+[submodule "deployment"]
+	path = deployment
+	url = git@github.com:abdellahaghzal/PFE_LICENCE_2026.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:yaaqoub-charkouk/car-rental-management-system-backend.git
