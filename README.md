@@ -133,6 +133,6 @@ A full demonstration video showcasing the application's features is available in
 
 <div align="center">
 
-*Bachelor Final Studies Project — 2025*
+*Bachelor Final Studies Project — 2026*
 
 </div>
